@@ -1,0 +1,11 @@
+*/*/.tfstate
+*/*/.terraform
+*/*/.tfstate.backup
+*.tfstate
+*.exe
+*lock.json
+*modules.json
+*.venv
+*.vscode*
+*.funcignore
+accounts/330/network-security-group/~$nsg-hpc-vnet.xlsm
